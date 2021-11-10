@@ -1,0 +1,3 @@
+include ':toastutil'
+include ':app'
+rootProject.name = "MyLibrary"

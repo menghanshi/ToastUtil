@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--基础通用颜色开始-->
+    <color name="baseBackgrounColor">#ffffff</color>
+    <color name="baseTextColor">#E4E4E4</color>
+    <color name="vipTextColor">#00dcff</color>
+    <color name="splitLineColor">#222222</color>
+    <color name="transparent">#00ffffff</color>
+
+    <!--基础通用颜色结束-->
+
+    <color name="baseButtonColor">#1972FA</color>
+    <color name="baseButtonUnableColor">#E4E4E4</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="blue">#ffccddff</color>
+    <color name="grey">#58616d</color>
+    <color name="darkgrey">#ff404040</color>
+    <color name="toasterro">#9fd524</color>
+    <color name="lightgrey">#ff888888</color>
+    <color name="semitransparent">#80000000</color>
+    <color name="lightransparent">#a0000000</color>
+    <color name="navpage">#FFE1E8EB</color>
+
+
+    <color name="common_backgroud_color">#f0efed</color>
+    <color name="common_background_color2">#ebeff0</color>
+    <color name="common_title_backgroud_color">#f6f6f6</color>
+    <color name="common_title_border_color">#dcdcdc</color>
+    <color name="pay_backgroud_color_e">#dcdcdc</color>
+    <color name="common_title_border_color_new">#FDE323</color>
+    <color name="silde_menue_bg">#e6121212</color>
+    <color name="order_bottom_bg">#83000000</color>
+    <color name="new_year_title">#98cdfe</color>
+    <color name="main_top_title_img">#fde327</color>
+    <color name="main_side_bar_bg">#eeeeee</color>
+    <color name="sliding_menu_divider">#d8d8d8</color>
+    <color name="common_text_color">#666666</color>
+    <color name="order_buy_limit">#BB4D4D</color>
+    <color name="common_text_color2">#F0EFED</color>
+    <color name="main_top_bar_bg_press">#fde327</color>
+    <color name="common_main_color">#fde327</color>
+    <color name="home_title_text">#969696</color>
+    <color name="common_main_black_color">#202020</color>
+    <color name="home_left_line">#262525</color>
+    <color name="title_normal">#2e2e2e</color>
+    <color name="guide_bg">#FFDD02</color>
+    <color name="title_selected">#bda50a</color>
+    <color name="title_bg">#fde327</color>
+    <color name="common_main_grey_color">#969696</color>
+    <color name="pay_confirm_e">#969696</color>
+    <color name="pay_confirm">#4a4a4a</color>
+    <color name="common_text_title_color">#4a4a4a</color>
+    <color name="hot_common_text_title_color">#4A4A4A</color>
+    <color name="bar_title_color">#999999</color>
+    <color name="common_white">#ffffff</color>
+    <color name="splash_bottom">#FFD400</color>
+    <color name="common_grey">#999999</color>
+    <color name="common_transparent">#00ffffff</color>
+    <color name="coupon_price">#fdcd23</color>
+    <color name="common_hint">#b5b5b5</color>
+    <color name="slide_item_n">#817e7e</color>
+    <color name="slide_item_p">#fde327</color>
+    <color name="slide_item_bg_p">#232323</color>
+    <color name="order_price_tv">#ff7f02</color>
+    <color name="order_only_price_tv">#7b7eb6</color>
+    <color name="order_phone_bg">#da4a4a4a</color>
+    <color name="total_preice_bg">#f7f7f7</color>
+    <color name="order_phone_bg_new">#626262</color>
+    <color name="dark_brown">#1a0f05</color>
+    <color name="common_grey_2">#f1f1f1</color>
+    <color name="translucent_black">#80000000</color>
+    <color name="primary">#FF03A9F4</color>
+    <color name="primary_dark">#FF0288D1</color>
+    <color name="status_bar_color">@color/primary_dark</color>
+    <color name="tab_normal_selected">#ffc717</color>
+    <color name="pre_scale_card_price">#FF7F02</color>
+    <color name="pre_scale_card_name">#4A4A4A</color>
+    <color name="pre_scale_card_count">#999999</color>
+    <color name="bd_pre_scale_card_desc_empty">#f0efed</color>
+    <color name="bd_pre_scale_card_desc_text">#f6f6f6</color>
+    <color name="my_pre_scale_card_name">#D08E4D</color>
+    <color name="my_pre_scale_card_name_gray">#D3D3D3</color>
+    <color name="pre_scale_translucent_black">#60000000</color>
+    <color name="pre_scale_banner_bg">#7f000000</color>
+    <color name="groups_name">#4A4A4A </color>
+    <color name="select_color">#ECECEC</color>
+
+    <color name="c_000000">#000000</color>
+    <color name="c_333333">#333333</color>
+    <color name="c_1972fa">#1972FA</color>
+    <color name="c_1dc3ff">#1DC3FF</color>
+    <color name="c_999999">#999999</color>
+    <color name="c_1672fb">#1672FB</color>
+    <color name="c_666666">#666666</color>
+    <color name="c_dbe7fe">#DBE7FE</color>
+    <color name="c_151515">#151515</color>
+    <color name="c_2c3b74">#2C3B74</color>
+    <color name="c_474747">#474747</color>
+    <color name="c_f7f7f7">#F7F7F7</color>
+    <color name="c_0036a1">#0036A1</color>
+    <color name="c_272934">#272934</color>
+    <color name="c_ebedf9">#EBEDF9</color>
+    <color name="c_9fa6c3">#9FA6C3</color>
+    <color name="c_eef1fa">#EEF1FA</color>
+    <color name="c_feff59">#FEFF59</color>
+    <color name="c_f9faff">#F9FAFF</color>
+    <color name="c_6b759d">#6B759D</color>
+    <color name="c_ff3333">#FF3333</color>
+    <color name="c_ff638e">#FF638E</color>
+    <color name="c_00c1de">#00C1DE</color>
+    <color name="c_e5eaf8">#E5EAF8</color>
+    <color name="c_f8f8f8">#F8F8F8</color>
+    <color name="c_FFFFFF">#FFFFFF</color>
+    <color name="c_131313">#131313</color>
+    <color name="c_00b0ff">#00B0FF</color>
+    <color name="c_9933cc">#9933CC</color>
+    <color name="c_aaaaaa">#AAAAAA</color>
+    <color name="c_4a4a4a">#4A4A4A</color>
+    <color name="c_ececec">#ECECEC</color>
+    <color name="c_c3c3c3">#c3c3c3</color>
+    <color name="c_00dcff">#00dcff</color>
+    <color name="c_eaeaea">#EAEAEA</color>
+
+    <color name="c_111111">#111111</color>
+
+
+    <!--黑色透明度5%-->
+    <color name="c5_000000">#0D000000</color>
+    <!--黑色透明度10%-->
+    <color name="c10_000000">#1A000000</color>
+    <!--黑色透明度15%-->
+    <color name="c15_000000">#26000000</color>
+    <!--黑色透明度20%-->
+    <color name="c20_000000">#33000000</color>
+    <!--黑色透明度30-->
+    <color name="c30_000000">#4D000000</color>
+    <!--黑色透明度35%-->
+    <color name="c35_000000">#59000000</color>
+    <!--黑色透明度40%-->
+    <color name="c40_000000">#66000000</color>
+    <!--黑色透明度50%-->
+    <color name="c50_000000">#80000000</color>
+    <!--黑色透明度60%-->
+    <color name="c60_000000">#99000000</color>
+    <!--黑色透明度73%-->
+    <color name="c73_000000">#BA000000</color>
+
+    <color name="c80_000000">#CC000000</color>
+
+    <color name="c85_111111">#D9111111</color>
+
+    <color name="c85_ffffff">#D9FFFFFF</color>
+
+    <color name="c00_ffffff">#00ffffff</color>
+    <color name="c09_ffffff">#17ffffff</color>
+    <color name="c80_ffffff">#CCffffff</color>
+    <color name="c60_ffffff">#99ffffff</color>
+
+    <color name="c10_0036A1">#1A0036A1</color>
+
+</resources>
